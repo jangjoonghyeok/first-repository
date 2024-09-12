@@ -1,6 +1,10 @@
 def print_hello();
     print("hello world!!")
 
+def print_kit():
+    print("kimoh national institute of Technology.")
+
 
 if_name_ =='_main_':
     print_hello()
+    print_kit()
